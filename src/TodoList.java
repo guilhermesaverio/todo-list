@@ -16,7 +16,7 @@ public class TodoList {
             System.out.println("0 - Sair");
             System.out.print("Escolha uma opção: ");
             opcao = sc.nextInt();
-            sc.nextLine(); // limpar buffer
+            sc.nextLine(); 
 
             switch (opcao) {
                 case 1:
