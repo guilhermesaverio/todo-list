@@ -1,4 +1,4 @@
- 📝 To-Do List em Java
+To-Do List em Java
 
 Projeto simples de To-Do List feito em Java, com menu de console.
 
